@@ -1,0 +1,73 @@
+2020-03-11 16:19:21,745  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="6629cd6a2e6c1f776333b446d8c0b7cc")>
+2020-03-11 16:19:21,746  INFO  [logger]  [test_login.py(setUpClass:45)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x0000021D6C8F7BA8>, <page.login_page.LoginProxy object at 0x0000021D6C9201D0>)
+2020-03-11 16:19:24,963  INFO  [logger]  [test_login.py(setUp:52)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 16:19:31,319  INFO  [logger]  [test_login.py(test01_login:70)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户')
+2020-03-11 16:19:31,722  INFO  [logger]  [test_login.py(test01_login:73)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 16:19:40,664  INFO  [logger]  [test_login.py(tearDown:58)]  -  用例执行结束...
+2020-03-11 16:37:30,568  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="885b9d22384083c97dfb3bd273395e3f")>
+2020-03-11 16:37:30,569  INFO  [logger]  [test_login.py(setUpClass:45)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x000001FF4D1D1860>, <page.login_page.LoginProxy object at 0x000001FF4D1D1550>)
+2020-03-11 16:37:33,715  INFO  [logger]  [test_login.py(setUp:52)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 16:37:38,163  INFO  [logger]  [test_login.py(test01_login:70)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户')
+2020-03-11 16:37:38,513  INFO  [logger]  [test_login.py(test01_login:73)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 16:37:47,403  INFO  [logger]  [test_login.py(tearDown:58)]  -  用例执行结束...
+2020-03-11 16:56:46,333  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="d4c56350a0768e823f240de4d7480db1")>
+2020-03-11 16:56:46,334  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x00000175F80B13C8>, <page.login_page.LoginProxy object at 0x00000175F80B10F0>)
+2020-03-11 16:56:49,447  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 16:56:53,865  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户')
+2020-03-11 16:56:54,242  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 16:57:03,129  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
+2020-03-11 16:57:03,129  INFO  [logger]  [test_login.py(tearDownClass:63)]  -  退出浏览器驱动...:<selenium.webdriver.chrome.webdriver.WebDriver (session="d4c56350a0768e823f240de4d7480db1")>
+2020-03-11 19:21:38,655  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="ae708382f0b733202c5ac37f0ade8c29")>
+2020-03-11 19:21:38,655  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x0000027BB98C1518>, <page.login_page.LoginProxy object at 0x0000027BB98C1240>)
+2020-03-11 19:21:41,643  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 19:21:45,987  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户')
+2020-03-11 19:21:46,332  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 19:21:55,079  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
+2020-03-11 19:22:14,041  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="473e9eacfab80ff136d0ba6ee461e501")>
+2020-03-11 19:22:14,041  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x000001C41E0F0A90>, <page.login_page.LoginProxy object at 0x000001C41E0F0780>)
+2020-03-11 19:22:17,050  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 19:22:21,349  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户')
+2020-03-11 19:22:21,696  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 19:22:30,427  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
+2020-03-11 19:28:10,226  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="fb4bfe12d85ffcc5d74fbc7a96d73fc4")>
+2020-03-11 19:28:10,226  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x000002104DD01518>, <page.login_page.LoginProxy object at 0x000002104DD01240>)
+2020-03-11 19:28:13,142  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 19:28:17,469  INFO  [logger]  [test_login.py(test01_login:70)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户')
+2020-03-11 19:28:17,794  INFO  [logger]  [test_login.py(test01_login:73)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 19:28:26,953  INFO  [logger]  [test_login.py(tearDown:58)]  -  用例执行结束...
+2020-03-11 19:28:57,090  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="322ac81d6baf1196a26ca79b35481a1d")>
+2020-03-11 19:28:57,090  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x000001C315228588>, <page.login_page.LoginProxy object at 0x000001C3152282B0>)
+2020-03-11 19:29:00,012  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 19:29:04,335  INFO  [logger]  [test_login.py(test01_login:70)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户111')
+2020-03-11 19:29:04,707  INFO  [logger]  [test_login.py(test01_login:73)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 19:29:13,872  INFO  [logger]  [test_login.py(tearDown:58)]  -  用例执行结束...
+2020-03-11 19:31:43,027  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="5ddfa96aa40637e3adeb2efc296d77d1")>
+2020-03-11 19:31:43,027  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x000001A4975C9588>, <page.login_page.LoginProxy object at 0x000001A4975C92B0>)
+2020-03-11 19:31:45,947  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 19:31:50,277  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户111')
+2020-03-11 19:31:50,616  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 19:31:59,798  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
+2020-03-11 19:33:23,845  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="d21080b94439686024965ddded634d14")>
+2020-03-11 19:33:23,845  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x000002335D261518>, <page.login_page.LoginProxy object at 0x000002335D261240>)
+2020-03-11 19:33:26,825  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 19:33:31,176  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户111')
+2020-03-11 19:33:31,503  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 19:33:40,722  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
+2020-03-11 19:34:10,922  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="4b31ef413f88db5d16a3771611832eda")>
+2020-03-11 19:34:10,922  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x0000017D1A4A9588>, <page.login_page.LoginProxy object at 0x0000017D1A4A92B0>)
+2020-03-11 19:34:13,913  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 19:34:18,241  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户111')
+2020-03-11 19:34:18,604  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 19:34:27,769  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
+2020-03-11 20:03:53,637  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="df753a79e730674d443c2e7bd584b8e6")>
+2020-03-11 20:03:53,637  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x000002B5662E06D8>, <page.login_page.LoginProxy object at 0x000002B5662E03C8>)
+2020-03-11 20:03:56,585  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 20:04:01,016  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户111')
+2020-03-11 20:04:01,362  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 20:04:10,493  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
+2020-03-11 20:07:40,980  INFO  [logger]  [test_login.py(setUpClass:43)]  -  获取浏览器驱动对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="b8319068a656f77d30c5441143d0cd00")>
+2020-03-11 20:07:40,981  INFO  [logger]  [test_login.py(setUpClass:44)]  -  获取页面对象:(<page.index_page.IndexProxy object at 0x00000218F763D6D8>, <page.login_page.LoginProxy object at 0x00000218F763D3C8>)
+2020-03-11 20:07:43,899  INFO  [logger]  [test_login.py(setUp:51)]  -  用例开始执行,初始化页面:http://localhost/
+2020-03-11 20:07:48,285  INFO  [logger]  [test_login.py(test01_login:69)]  -  用例参数数据:('13012345678', '123456', '8888', '我的账户111')
+2020-03-11 20:07:48,637  INFO  [logger]  [test_login.py(test01_login:72)]  -  用户登录:('13012345678', '123456', '8888')
+2020-03-11 20:07:57,804  INFO  [logger]  [test_login.py(tearDown:57)]  -  用例执行结束...
